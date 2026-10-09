@@ -1,0 +1,6 @@
+{
+  "repository_kind": "application-source",
+  "project_name": "Demo Product",
+  "run_id": "r1",
+  "note": "Application repository. Automated tests are retained here because CI must execute them."
+}
